@@ -1,2 +1,2 @@
 # BackFlashoverOprimization
-This repository contains programs to minimize investment costos of LPS for an expected BFOR.
+This repository contains programs to minimize investment costs of LPS for an expected BFOR.
